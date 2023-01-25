@@ -1,0 +1,16 @@
+Projects/B-U585I-IOT02A/Applications/ThreadX/Tx_MPU_LevelX_NetX_Module/EWARM/Tx_Module/Obj
+Projects/B-U585I-IOT02A/Applications/ThreadX/Tx_MPU_LevelX_NetX_Module/EWARM/Tx_Module_Manager/Obj
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.dep
+*.deps
+*.log
+*.pbi
+*.pbd
+*.xcl
+*.sim
+*.map
+
